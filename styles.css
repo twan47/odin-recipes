@@ -12,3 +12,9 @@ li {
 body {
     background-color: beige;
 }
+
+.h1.wedding-spaghetti-sauce {
+    font-weight: bold;
+    text-align: center;
+    color: goldenrod;
+}
